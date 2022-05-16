@@ -62,6 +62,16 @@ Drawings with pure CSS.
 - [Link](panda)
 <img src="pngs/panda.png" alt="Panda"  width="250px">
 
+## Watermelon 🍉
+
+- [Link](watermelon)
+<img src="pngs/watermelon.png" alt="Watermelon"  width="250px">
+
+## Adidas
+
+- [Link](adidas)
+<img src="pngs/adidas.png" alt="Adidas"  width="250px">
+
 ## Brackets
 
 - [Link](brackets)
