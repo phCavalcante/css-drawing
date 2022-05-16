@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adidas {
+    width: 206px;
+    height: 120px;
+    background-color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.shape {
+    width: 46px;
+    height: 150px;
+    background-color: black;
+    position: absolute;
+    transform: rotate(-31deg);
+}
+
+.s1 {
+    top: 86px;
+    left: 36px;
+    background-color: black;
+}
+
+.s2 {
+    top: 45px;
+    left: 82px;
+    background-color: black;
+}
+
+.s3 {
+    top: 4px;
+    left: 129px;
+    background-color: black;
+}
