@@ -7,7 +7,7 @@ Drawings with pure CSS.
 - [Link](diamond)
 <img src="pngs/diamond.png" alt="Diamond"  width="250px">
 
-## Envelope with CSS ✉
+## Envelope with CSS ✉ ❤
 
 - [Link](envelope_with_heart)
 <img src="pngs/envelope_with_heart.png" alt="Envelope with heart"  width="250px">
@@ -76,3 +76,8 @@ Drawings with pure CSS.
 
 - [Link](donut)
 <img src="pngs/donut.png" alt="Donut"  width="250px">
+
+## Figma 
+
+- [Link](figma)
+<img src="pngs/figma.png" alt="Figma"  width="250px">
