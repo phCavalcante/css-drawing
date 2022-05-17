@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ecd590;
+}
+
+.shelf {
+    width: 520px;
+    height: 20px;
+    position: relative;
+    background-color: #5a3f21;
+}
+
+.clock {
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    background-color: #e9e6c9;
+    border: 10px solid #5aa668;
+    border-radius: 50%;
+    left: 30px;
+    top: -135px;
+}
+
+.knot {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    background-color: #9d374f;
+    border-radius: 50%;
+    left: 50% ;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.hand {
+    width: 4px;
+    height: 50px;
+    position: absolute;
+    background-color: #47321a;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    transform-origin: bottom;
+}
+
+.hour-hand {
+    height: 30px;
+    transform: translate(-50%, -100%) rotate(45deg);
+}
+
+.min-hand {
+    height: 40px;
+    width: 3px;
+    transform: translate(-50%, -100%) rotate(160deg);
+}
+
+.second-hand {
+    height: 47px;
+    width: 2px;
+    transform: translate(-50%, -100%) rotate(-40deg);
+}
+
+.clock-ear-left {
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    background-color: #5aa668;
+    left: -38px;
+    top: -12px;
+    border-radius: 90px 90px 0 0;
+    transform: rotate(-50deg);
+}
+
+.clock-ear-left::before {
+    content: '';
+    width: 15px;
+    height: 8px;
+    position: absolute;
+    background-color: #9d374f;
+    top: -9px;
+    left: 23px;
+    border-radius: 90px 90px 0 0;
+}
+
+.clock-ear-right {
+    width: 60px;
+    height: 30px;
+    position: absolute;
+    background-color: #5aa668;
+    right: -38px;
+    top: -12px;
+    border-radius: 90px 90px 0 0;
+    transform: rotate(50deg);
+}
+
+.clock-ear-right::before {
+    content: '';
+    width: 15px;
+    height: 8px;
+    position: absolute;
+    background-color: #9d374f;
+    top: -9px;
+    right: 23px;
+    border-radius: 90px 90px 0 0;
+}
+
+.clock-foot-left {
+    height: 50px;
+    width: 12px;
+    background-color: #47321a;
+    position: absolute;
+    left: 20px;
+    bottom: -25px;
+    transform: rotate(30deg);
+    z-index: -1;
+}
+
+.clock-foot-right {
+    height: 50px;
+    width: 12px;
+    background-color: #47321a;
+    position: absolute;
+    right: 20px;
+    bottom: -25px;
+    transform: rotate(-30deg);
+    z-index: -1;
+}
