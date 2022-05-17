@@ -102,7 +102,7 @@ Drawings with pure CSS.
 - [Link](lg)
 <img src="pngs/lg.png" alt="Lg logo"  width="250px">
 
-## Beaver 
+## Beaver 🐾
 
 - [Link](beaver)
 <img src="pngs/beaver.png" alt="Beaver"  width="250px">
