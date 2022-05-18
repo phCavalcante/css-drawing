@@ -131,3 +131,52 @@ body {
     transform: rotate(-30deg);
     z-index: -1;
 }
+
+.book-1 {
+    width: 40px;
+    height: 170px;
+    background-color: #9d374f;
+    position: absolute;
+    left: 210px;
+    top: -170px;
+}
+
+.book-1::before, .book-2::before, .book-3::before {
+    content: '';
+    width: 100%;
+    height: 20px;
+    background-color: #e9e6c9;
+    position: absolute;
+    top: 20px;
+    left: 0;
+}
+
+.book-1::after, .book-2::after, .book-3::after {
+    content: '';
+    width: 50%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.15;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+.book-2 {
+    width: 40px;
+    height: 195px;
+    background-color: #e86830;
+    position: absolute;
+    left: 250px;
+    top: -195px;
+}
+
+.book-3 {
+    width: 40px;
+    height: 180px;
+    background-color: #5aa668;
+    position: absolute;
+    left: 290px;
+    top: -180px;
+}
