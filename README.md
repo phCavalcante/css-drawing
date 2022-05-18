@@ -96,3 +96,13 @@ Drawings with pure CSS.
 
 - [Link](react)
 <img src="pngs/react.png" alt="ReactJS"  width="250px">
+
+## LG 
+
+- [Link](lg)
+<img src="pngs/lg.png" alt="Lg logo"  width="250px">
+
+## Beaver 🐾
+
+- [Link](beaver)
+<img src="pngs/beaver.png" alt="Beaver"  width="250px">
