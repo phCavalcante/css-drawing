@@ -106,3 +106,8 @@ Drawings with pure CSS.
 
 - [Link](beaver)
 <img src="pngs/beaver.png" alt="Beaver"  width="250px">
+
+## Bookshelf with clock and cactus ⏰📚🌵
+
+- [Link](bookshelf_with_clock_and_cactus)
+<img src="pngs/bookshelf_with_clock_and_cactus.png" alt="Bookshelf with clock and cactus"  width="250px">
