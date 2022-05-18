@@ -12,7 +12,6 @@ body {
     position: relative;
     width: 215px;
     height: 405px;
-    background-color: green;
 }
 
 .forehead {
@@ -188,5 +187,70 @@ body {
     background-color: #d1b271;
     top: 260px;
     left: 80px;
+}
 
+.neck {
+    position: absolute;
+    width: 125px;
+    height: 150px;
+    background-color: #fed90f;
+    top: 200px;
+    left: 28px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    transform: rotate(2deg);
+}
+
+.collar-left {
+    position: absolute;
+    width: 110px;
+    height: 60px;
+    background-color: white;
+    top: 330px;
+    left: 10px;
+    transform: rotate(15deg);
+    border-radius: 10%;
+    border: 1px solid black;
+}
+
+.collar-right {
+    position: absolute;
+    width: 20px;
+    height: 50px;
+    background-color: white;
+    top: 340px;
+    left: 150px;
+    transform: rotate(-20deg);
+    border: 1px solid black;
+}
+
+.ear {
+    position: absolute;
+    width: 32px;
+    height: 37px;
+    background-color: #fed90f;
+    top: 200px;
+    left: 10px;
+    border-radius: 50%;
+    transform: rotate(10deg);
+    border: 1px solid black;
+}
+
+.ear1 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 8px;
+    left: 8px;
+    border-left: 1px solid black;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+
+.ear2 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: -3px;
+    border-bottom: 1px solid black;
 }
