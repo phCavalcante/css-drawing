@@ -116,3 +116,8 @@ Drawings with pure CSS.
 
 - [Link](homer)
 <img src="pngs/homer.png" alt="Homer"  width="250px">
+
+## Uchiha
+
+- [Link](uchiha)
+<img src="pngs/uchiha.png" alt="Uchiha symbol"  width="250px">
