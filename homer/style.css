@@ -87,3 +87,39 @@ body {
     left: 35px;
     top: 40px;
 }
+
+.f-side1 {
+    position: absolute;
+    width: 140px;
+    height: 60px;
+    background-color: #fed90f;
+    top: 185px;
+    left: 30px;
+}
+
+.f-side2 {
+    position: absolute;
+    width: 40px;
+    height: 60px;
+    background-color: #fed90f;
+    top: 165px;
+    left: 22px;
+    transform: rotate(-11deg);
+    border-left: 1px solid black;
+}
+
+.nose {
+    position: absolute;
+    width: 60px;
+    height: 32px;
+    background-color: #fed90f;
+    top: 175px;
+    left: 130px;
+    /* border-radius: 0 20px 20px 0; */
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+
+}
