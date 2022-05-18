@@ -112,7 +112,7 @@ Drawings with pure CSS.
 - [Link](bookshelf_with_clock_and_cactus)
 <img src="pngs/bookshelf_with_clock_and_cactus.png" alt="Bookshelf with clock and cactus"  width="250px">
 
-## Homer ⏰📚🌵
+## Homer
 
 - [Link](homer)
 <img src="pngs/homer.png" alt="Homer"  width="250px">
