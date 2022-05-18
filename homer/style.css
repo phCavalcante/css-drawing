@@ -121,5 +121,72 @@ body {
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     border-right: 1px solid black;
+}
+
+.mouth {
+    position: absolute;
+    width: 115px;
+    height: 120px;
+    background-color: #d1b271;
+    top: 207px;
+    left: 60px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.mouth-part1 {
+    position: absolute;
+    width: 20px;
+    height: 30px;
+    background-color: #d1b271;
+    top: 62px;
+    left: 98px;
+    border-radius: 50%;
+    border-right: 1px solid black;
+    transform: rotate(15deg);
+}
+
+.mouth-part2 {
+    position: absolute;
+    width: 120px;
+    height: 60px;
+    background-color: #d1b271;
+    top: 20px;
+    left: 30px;
+    border-radius: 60%;
+    border-bottom: 1px solid black;
+    transform: rotate(-6deg);
+}
+
+.mouth-part3 {
+    position: absolute;
+    width: 35px;
+    height: 48px;
+    background-color: #d1b271;
+    top: 230px;
+    left: 165px;
+    border-radius: 10%;
+    border-top: 1px solid black;
+    transform: rotate(40deg);
+}
+
+.mouth-part4 {
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    background-color: #d1b271;
+    top: 200px;
+    left: 130px;
+    border-right: 1px solid black;
+    border-top-right-radius: 70%;
+}
+
+.mouth-part5 {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: #d1b271;
+    top: 260px;
+    left: 80px;
 
 }
